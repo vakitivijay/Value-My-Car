@@ -74,9 +74,9 @@ npm start
 ## 📜 Licens
 This project is open-source and available under the **MIT License**.
 
----
-_✨ Thank you for checking out this project! Feel free to contribute or suggest improvements! ✨_
 
 ## Result 
 ![Screenshot (88)](https://github.com/user-attachments/assets/589f59eb-b6d3-4b71-bc1f-29b056cadb62)
 ![Screenshot (90)](https://github.com/user-attachments/assets/ef7601e0-57f5-428a-8c11-9c19af0d2323)
+
+_✨ Thank you for checking out this project! Feel free to contribute or suggest improvements! ✨_
